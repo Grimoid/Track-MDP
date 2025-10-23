@@ -170,13 +170,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built on [Ray RLlib](https://docs.ray.io/en/latest/rllib/) for distributed reinforcement learning
 - Visualization powered by [Pygame](https://www.pygame.org/)
-- Environment design inspired by POMDP object tracking research
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/Track-MDP-final/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/Track-MDP-final/discussions)
-- **Wiki**: [Project Wiki](https://github.com/yourusername/Track-MDP-final/wiki)
 
 ## 🔗 Related Projects
 

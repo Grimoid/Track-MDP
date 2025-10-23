@@ -8,6 +8,8 @@ Implementation of the paper: "Track-MDP: Reinforcement Learning for Target Track
 
 Adarsh M. Subramaniam, **Argyrios Gerogiannis**, James Z. Hare, Venugopal Veeravalli 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 
+Paper link: [https://ieeexplore.ieee.org/document/10890122](https://ieeexplore.ieee.org/document/10890122)
+
 ## 🌟 Features
 
 - **Grid-based Object Tracking**: Stochastic object movement in configurable NxN grid environments
